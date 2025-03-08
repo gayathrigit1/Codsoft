@@ -47,8 +47,13 @@ Embeded Code:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);"
 width="800"
 height="450" 
-src="https://embed.figma.com/design/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&embed-host=share" allowfullscreen>
-</iframe>
+
+  
+src="https://embed.figma.com/design/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+
+Prototype link:
+https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&t=AIIrpmNurrvfa7QZ-1
 
 
 
