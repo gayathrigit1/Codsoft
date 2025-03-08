@@ -7,7 +7,7 @@ app. The goal of a good signup flow is to make it easy and quick for users to si
 also collecting the necessary information from them.
 
 Protytype link:
-https://www.figma.com/design/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=0-1&m=dev&t=AIIrpmNurrvfa7QZ-1
+
 (Disclaimer: Click on the prototype so you can view the next page)
 
 
@@ -29,5 +29,4 @@ is to make it easy for customers to find the dishes they want, and to
 encourage them to order more.
 
 Prototype link:
-https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&t=AIIrpmNurrvfa7QZ-1
 
