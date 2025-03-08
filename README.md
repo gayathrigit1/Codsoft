@@ -7,7 +7,7 @@ app. The goal of a good signup flow is to make it easy and quick for users to si
 also collecting the necessary information from them.
 
 Protytype link:
-
+https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=0-1&t=AIIrpmNurrvfa7QZ-1
 (Disclaimer: Click on the prototype so you can view the next page)
 
 
@@ -19,7 +19,7 @@ easy and quick for businesses to send out emails that look professional and
 engaging.
 
 Prototype link:
-
+https://www.figma.com/proto/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&t=fxvZDq4lZoXazLdY-1
 
 Task3: Restaurant menu
 
@@ -29,4 +29,5 @@ is to make it easy for customers to find the dishes they want, and to
 encourage them to order more.
 
 Prototype link:
+https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&t=AIIrpmNurrvfa7QZ-1
 
