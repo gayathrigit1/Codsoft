@@ -7,11 +7,11 @@ app. The goal of a good signup flow is to make it easy and quick for users to si
 also collecting the necessary information from them.
 
 Embeded Code:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-  width="800" 
-  height="450"
-  src="https://embed.figma.com/design/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=0-1&embed-host=share" allowfullscreen>
- </iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);"  
+  
+width="800"  height="450" 
+  src="https://embed.figma.com/design/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
 
 Protytype link:
 https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=0-1&t=AIIrpmNurrvfa7QZ-1
@@ -27,10 +27,11 @@ engaging.
 
 Embeded Code:
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);"
-  width="800"
-  height="450" 
-  src="https://embed.figma.com/design/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&embed-host=share" allowfullscreen>
-</iframe>
+  
+width="800"
+height="450"
+src="https://embed.figma.com/design/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&embed-host=share" allowfullscreen></iframe>
+
 
 Prototype link:
 https://www.figma.com/proto/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&t=fxvZDq4lZoXazLdY-1
@@ -43,12 +44,15 @@ is to make it easy for customers to find the dishes they want, and to
 encourage them to order more.
 
 Embeded Code:
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" 
-  width="800"
-  height="450" 
-  src="https://embed.figma.com/design/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&embed-host=share" allowfullscreen>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);"
+width="800"
+height="450" 
+src="https://embed.figma.com/design/YvZIq0bB5makkeGnnwlYlB/Email-Tempo?node-id=0-1&embed-host=share" allowfullscreen>
 </iframe>
 
-Prototype link:
-https://www.figma.com/proto/Vih0b7xtoGCxPc3aYVEKuU/Bangtaned?node-id=8-9&t=AIIrpmNurrvfa7QZ-1
+
+
+
+
+
 
